@@ -13,3 +13,46 @@ h1 {
 .headerp {
   color: #fff;
 }
+
+footer {
+  background-color: #70ad55;
+  color: #fff;
+}
+
+input {
+  border-color: #6e8c62;
+}
+
+fieldset {
+  border: 0;
+}
+
+i {
+  color: #70ad55;
+}
+
+select {
+  border-color: #6e8c62;
+}
+
+hr {
+  border-color: #70ad55;
+}
+
+.pad-r {
+  padding-right: 10px;
+}
+
+.pad-l {
+  padding-left: 10px;
+}
+
+[type="checkbox"] + label::before,
+[type="radio"] + label::before {
+  border-color: #6e8c62;
+}
+
+button {
+  border-color: #6e8c62;
+  background-color: #6e8c62;
+}
